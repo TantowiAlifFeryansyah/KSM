@@ -1,5 +1,5 @@
 /* 
-2) QUERY untuk menampilkan customerNumber siapa saja yang memesan
+1) QUERY untuk menampilkan customerNumber siapa saja yang memesan
 productLine  dimana total hitung atau COUNT productionline
 tersebut lebih besar dari 23. 
 */
